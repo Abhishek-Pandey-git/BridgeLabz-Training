@@ -16,8 +16,8 @@ public class TotalPurchasePrice {
         double totalPrice = unitPrice * quantity;
         
         // Display result
-        System.out.printf("The total purchase price is INR %.2f if the quantity %d and unit price is INR %.2f%n", 
-                         totalPrice, quantity, unitPrice);
+        System.out.println("The total purchase price is INR " + totalPrice + 
+                         " if the quantity " + quantity + " and unit price is INR " + unitPrice);
         
         scanner.close();
     }
