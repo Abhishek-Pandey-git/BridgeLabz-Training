@@ -13,8 +13,7 @@ public class SquareSide {
         double side = perimeter / 4;
         
         // Display result
-        System.out.printf("The length of the side is %.2f whose perimeter is %.2f%n", 
-                         side, perimeter);
+        System.out.println("The length of the side is " + side + " whose perimeter is " + perimeter);
         
         scanner.close();
     }
