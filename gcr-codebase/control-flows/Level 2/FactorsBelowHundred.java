@@ -19,7 +19,7 @@ public class FactorsBelowHundred{
 				break;
 			}
 		}
-		
+		//Looping to find the factors
 		for(int i=100;i>=1;i--){
 			if(number%i==0){
 				System.out.println(i);
