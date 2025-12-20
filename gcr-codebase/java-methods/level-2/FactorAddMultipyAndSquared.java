@@ -64,8 +64,6 @@ public class FactorAddMultipyAndSquared {
 		int number=input.nextInt();
 	
 		int[] factors=findFactors(number);
-	
-		int[] factors=findFactors(number);
 		
 		int total=findTotal(factors);
 		
@@ -81,6 +79,8 @@ public class FactorAddMultipyAndSquared {
 		}
 		System.out.println();
 		
+		System.out.println("Sum of all Factors is: "+total);
+		System.out.println("Product of all Factors is: "+product);
 		System.out.println("Sum of squared value of factors is: "+squaredSum);
 		
 		input.close();
