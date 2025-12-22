@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q1
 public class ValidForVotes {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Q2
 public class GameOfFiveNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
