@@ -110,6 +110,7 @@ BridgeLabz-Training/
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/scenario-based
 
 ---
+
 ### Day 9 – Scenario based problems, README improvements and leet code problems
 **Date:** 26-Dec-2025
 
@@ -124,4 +125,31 @@ BridgeLabz-Training/
 >Leet Code problems
 
 👍 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
+
+---
+
+## Week 2: Object-Oriented Programming in Java
+**Note:** Starting Dec 26, Core Java practice continues in parallel with OOP learning.
+
+---
+
+### Day 1 – Introduction to OOP & Basic Concepts  
+**Date:** 26-Dec-2025
+
+- Classes and Objects fundamentals.
+-
+**Programs Completed:**
+- Book (library management)
+- Circle (geometry calculations)
+- Employee (employee management)
+- Item (inventory system)
+- MobilePhone (device specifications)
+- BankAccount (banking operations)
+- CartItem (shopping cart)
+- MovieTicket (ticket booking)
+- PalindromeChecker (string manipulation with OOP)
+- StudentsGrades (grade management system)
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
 
