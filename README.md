@@ -110,3 +110,21 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+---
+### Day 9 – Scenario based problems, README improvements and leet code problems
+**Date:** 26-Dec-2025
+
+- Implemented scenario-based programs (Employee Wage Computation, Loan Eligibility Checker).
+- Solved 5 LeetCode problems .
+
+🔗 **Code Link:**  
+>Scenario based problems
+
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+>Leet Code problems
+
+👍 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
+
+
