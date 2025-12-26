@@ -1,5 +1,5 @@
 # BridgeLabz-Training
-
+## Core Java Fundamentals & GitHub Practice
 ## Week 1: Git, GitHub & Core Java Fundamentals
 
 ---
@@ -76,8 +76,6 @@ BridgeLabz-Training/
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/java-methods
 
 ---
-
-## Week 2: Strings, Built-ins & Scenario-Based Practice
 
 ### Day 6 – Strings  
 **Date:** 22-Dec-2025
