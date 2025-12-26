@@ -77,8 +77,6 @@ BridgeLabz-Training/
 
 ---
 
-## Week 2: Strings, Built-ins & Scenario-Based Practice
-
 ### Day 6 – Strings  
 **Date:** 22-Dec-2025
 
