@@ -125,4 +125,13 @@ BridgeLabz-Training/
 
 👍 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
 
+---
+### Day 10 – LeetCode Problems  
+**Date:** 27-Dec-2025
+
+- Solved LeetCode problems focusing on arrays and strings.
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
+
 
