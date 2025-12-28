@@ -1,6 +1,16 @@
 # BridgeLabz-Training
 
 ## Week 2: Object Oriented Programming in Java
+---
+
+```
+java-oops-practice/
+├── gcr-codebase/
+│   └── JavaOopsConcepts/
+│       └── src/
+├── leet-codebase/
+└── scenario-based-questions/
+``` 
 
 ---
 
@@ -29,11 +39,15 @@
 
 ---
 
-```
-java-oops-practice/
-├── gcr-codebase/
-│   └── JavaOopsConcepts/
-│       └── src/
-├── leet-codebase/
-└── scenario-based-questions/
-``` 
+### Day 2 – Constructors & Access Modifiers  
+**Date:** 27-Dec-2025
+
+- Constructor types (default, parameterized, copy).
+- Constructor overloading.
+- Access modifiers (`public`, `private`, `protected`, default).
+- Encapsulation with getters and setters.
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+
