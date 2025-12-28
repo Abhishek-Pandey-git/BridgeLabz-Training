@@ -128,6 +128,16 @@ BridgeLabz-Training/
 
 ---
 
+### Day 10 – LeetCode Problems  
+**Date:** 27-Dec-2025
+
+- Solved LeetCode problems focusing on arrays and strings.
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
+
+---
+
 ## Week 2: Object-Oriented Programming in Java
 **Note:** Starting Dec 26, Core Java practice continues in parallel with OOP learning.
 
@@ -149,6 +159,19 @@ BridgeLabz-Training/
 - MovieTicket (ticket booking)
 - PalindromeChecker (string manipulation with OOP)
 - StudentsGrades (grade management system)
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 2 – Constructors & Access Modifiers  
+**Date:** 27-Dec-2025
+
+- Constructor types (default, parameterized, copy).
+- Constructor overloading.
+- Access modifiers (`public`, `private`, `protected`, default).
+- Encapsulation with getters and setters.
 
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
