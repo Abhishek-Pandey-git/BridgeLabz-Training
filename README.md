@@ -188,3 +188,16 @@ java-oops-practice/
 ├── scenario-based-questions/
 └── README.md
 ```
+### Day 3 – final , static and this keyword   and scenario based problems
+**Date:** 29-Dec-2025
+
+- `final` keyword usage (variables, methods, classes).
+- `static` keyword (variables, methods, blocks).            
+- `this` keyword (current object reference).
+- Implemented scenario-based problems 
+
+🔗 **Code Link:**  
+👍 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
