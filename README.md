@@ -134,4 +134,12 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
 
+### Day 11 – scenario based Questions  
+**Date:** 29-Dec-2025
+
+- Solved Scenario based problems
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
 
