@@ -51,3 +51,12 @@ java-oops-practice/
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
 
 
+### Day  – Final Static and this keyword  
+**Date:** 29-Dec-2025
+
+- final keyword usage with variables, methods, and classes.
+- static keyword for variables and methods.
+- this keyword to reference current object.
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
