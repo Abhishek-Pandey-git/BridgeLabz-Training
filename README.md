@@ -225,3 +225,18 @@ java-oops-practice/
 
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 6 – Encapsulation, Polymorphism, Interface & Abstract Classes
+**Date:** 01-Jan-2026
+
+- Encapsulation with getters/setters
+- Polymorphism (compile-time and runtime)
+- Interfaces and Abstract classes
+- Scenario-based applications: eWallet, BankScenario, HotelScenario
+
+🔗 **Code Links:**  
+👉 [eWallet App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/ewallet)  
+👉 [Bank Scenario](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/bankscenario)  
+👉 [Hotel Scenario](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/hotelscenario)
