@@ -180,12 +180,3 @@
    - [Q7_CountingSortStudentAges.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q7_CountingSortStudentAges.java)
    - Time Complexity: O(n + k), Space: O(k)
 
-**Key Concepts Learned:**
-- Comparison-based vs non-comparison-based sorting
-- In-place vs out-of-place sorting algorithms
-- Stable vs unstable sorting algorithms
-- Divide and conquer approach (Merge Sort, Quick Sort)
-- Heap data structure and heapify operations
-- Partitioning and pivot selection in Quick Sort
-- Counting Sort for limited range of integers
-- Time-space complexity tradeoffs in sorting
