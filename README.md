@@ -203,3 +203,47 @@ java-oops-practice/
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice
 
+---
+
+### Day 8 – Ride-Hailing & Banking Applications  
+**Date:** 03-Jan-2026
+
+- Building complete applications with multiple classes.
+- Implementing business logic with OOP principles.
+- Interface-driven development.
+
+**Projects Completed:**
+
+**6. CabbyGo – A Ride-Hailing App**
+- Classes: Vehicle, Driver, Mini, Sedan, SUV
+- Interface: IRideService with bookRide(), endRide()
+- Inheritance: Mini, Sedan, SUV extend Vehicle
+- Encapsulation: Private location, fare, rating
+- Operators: baseFare + distance × rate
+- Polymorphism: Different vehicle types
+
+**Key Features:**
+- Vehicle management (vehicleNumber, capacity, type)
+- Driver management (name, licenseNumber, rating)
+- Fare calculation system
+- Ride booking and completion
+- Access modifiers protecting sensitive data
+
+**7. MyBank – Managing Customer Accounts**
+- Classes: Account, SavingsAccount, CurrentAccount
+- Interface: ITransaction with deposit(), withdraw(), checkBalance()
+- Inheritance: Account types extend base Account
+- Encapsulation: Private balance with method-only modification
+- Operators: balance × interestRate / 100
+- Polymorphism: Different interest calculation by account type
+
+**Key Features:**
+- Account initialization with/without opening balance
+- Transaction operations (deposit, withdraw)
+- Interest calculation
+- Balance protection
+- Constructor overloading
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
+
