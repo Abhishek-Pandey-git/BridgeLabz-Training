@@ -81,3 +81,29 @@ java-oops-practice/
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
 
+---
+
+### Day 5 – Inheritance  
+**Date:** 31-Dec-2025
+
+- Inheritance fundamentals and syntax.
+- Parent-child class relationships.
+- Method overriding and super keyword.
+- Types of inheritance in Java.
+- Understanding IS-A relationship.
+
+**Key Concepts:**
+- Extending classes with `extends` keyword
+- Accessing parent class members
+- Constructor chaining in inheritance
+- Method overriding vs overloading
+- Protected access modifier usage
+
+**Practice Examples:**
+- Base and derived class implementations
+- Real-world inheritance scenarios
+- Multi-level inheritance examples
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
