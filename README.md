@@ -270,3 +270,18 @@ java-oops-practice/
 👉 [HashMap Problems](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/stackqueuehashmap/hashmap)  
 👉 [CabbyGo App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/cabbygo)  
 👉 [MyBank App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/mybank)
+
+---
+
+### Day 3 (05-Jan-2026): Advanced OOP Scenarios
+
+- CampusConnect college portal system
+- SwiftCart e-commerce application
+- EduMentor online learning platform
+- FitTrack fitness tracking system
+
+🔗 **Code Links:**  
+👉 [CampusConnect](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/campusconnect)  
+👉 [SwiftCart](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/swiftcart)  
+👉 [EduMentor](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/edumentor)  
+👉 [FitTrack](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/fittrack)
