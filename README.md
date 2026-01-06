@@ -240,3 +240,18 @@ java-oops-practice/
 👉 [eWallet App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/ewallet)  
 👉 [Bank Scenario](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/bankscenario)  
 👉 [Hotel Scenario](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/hotelscenario)
+
+---
+
+## WEEK 3 - DATA STRUCTURE AND ALGORITHMS
+
+### Day 1 (02-Jan-2026): LinkedList Implementation and Modular Design
+
+- Singly, Doubly, and Circular Linked List implementations
+- Helper methods and modular code design
+- Real-world applications (Student Records, Inventory, Social Media, etc.)
+
+🔗 **Code Links:**  
+👉 [Singly LinkedList](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linkedlist/singlylinkedlist)  
+👉 [Doubly LinkedList](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linkedlist/doublylinkedlist)  
+👉 [Circular LinkedList](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linkedlist/circularlinkedlist)
