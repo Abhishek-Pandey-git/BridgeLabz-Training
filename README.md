@@ -255,3 +255,18 @@ java-oops-practice/
 👉 [Singly LinkedList](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linkedlist/singlylinkedlist)  
 👉 [Doubly LinkedList](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linkedlist/doublylinkedlist)  
 👉 [Circular LinkedList](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linkedlist/circularlinkedlist)
+
+---
+
+### Day 2 (03-Jan-2026): Stack, Queue, HashMap and OOP Applications
+
+- Stack and Queue problem solving
+- HashMap implementation and hashing functions
+- CabbyGo ride-sharing application
+- MyBank banking system
+
+🔗 **Code Links:**  
+👉 [Stack & Queue Problems](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/stackqueuehashmap/stackqueue)  
+👉 [HashMap Problems](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/stackqueuehashmap/hashmap)  
+👉 [CabbyGo App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/cabbygo)  
+👉 [MyBank App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/mybank)
