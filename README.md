@@ -247,3 +247,85 @@ java-oops-practice/
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
 
+---
+
+### Day 9 – College Portal & E-Commerce Applications  
+**Date:** 05-Jan-2026
+
+- Building comprehensive management systems.
+- Advanced polymorphism and interface implementation.
+- Complex class relationships and interactions.
+
+**Projects Completed:**
+
+**8. CampusConnect – College Information System**
+- Base Class: Person (name, email, id)
+- Derived Classes: Student, Faculty extend Person
+- Interface: ICourseActions with enrollCourse(), dropCourse()
+- Course class: manages students and faculty lists
+- Encapsulation: Private student grades
+- Operators: GPA calculation from grades
+- Polymorphism: printDetails() works differently for Student and Faculty
+
+**Key Features:**
+- Student enrollment and course management
+- Faculty assignment to courses
+- GPA calculation system
+- Access control for sensitive academic data
+- Constructor-based initialization
+
+**9. SwiftCart – The Grocery Shopping App**
+- Base Class: Product (name, price, category)
+- Derived Classes: PerishableProduct, NonPerishableProduct
+- Cart class: manages product list and totalPrice
+- Interface: ICheckout with generateBill(), applyDiscount()
+- Encapsulation: Protected price calculations
+- Operators: price × quantity, totalPrice - coupon
+- Polymorphism: Discount varies by product type
+
+**Key Features:**
+- Cart creation with/without pre-selected items
+- Constructor overloading for flexibility
+- Product type-based discount logic
+- Protected price update (Cart access only)
+- Bill generation with itemized list
+- Coupon and discount application
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
+
+---
+
+## 📚 Key Learnings Summary
+
+### OOP Concepts Mastered:
+- ✅ Classes & Objects
+- ✅ Constructors (Default, Parameterized, Copy, Overloading)
+- ✅ Encapsulation & Access Modifiers
+- ✅ Inheritance (Single, Multilevel, Hierarchical)
+- ✅ Polymorphism (Compile-time & Runtime)
+- ✅ Interfaces & Abstract Classes
+- ✅ final, static, this keywords
+- ✅ Method Overriding & Overloading
+- ✅ Helper Methods & Modular Design
+
+### Scenario-Based Projects:
+- ✅ Hospital Patient Management
+- ✅ Vehicle Rental System
+- ✅ University Course Enrollment
+- ✅ E-Wallet Application
+- ✅ Smart Home Automation
+- ✅ CabbyGo Ride-Hailing
+- ✅ MyBank Banking System
+- ✅ CampusConnect College Portal
+- ✅ SwiftCart E-Commerce
+
+---
+
+## 🚀 Next Steps
+- Data Structures & Algorithms
+- Collections Framework deep dive
+- Exception handling
+- File I/O operations
+- Multi-threading basics
+
