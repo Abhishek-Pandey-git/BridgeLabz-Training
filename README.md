@@ -213,3 +213,15 @@ java-oops-practice/
 
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 5 – Inheritance
+**Date:** 31-Dec-2025
+
+- Inheritance concepts and implementation
+- Parent-child class relationships
+- Method overriding and super keyword
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
