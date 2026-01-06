@@ -170,3 +170,36 @@ java-oops-practice/
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
 
+---
+
+### Day 7 – Advanced Scenario-Based Problems  
+**Date:** 02-Jan-2026
+
+- Deep dive into helper methods and modular code design.
+- Breaking complex logic into reusable methods.
+- Real-world story-driven programming problems.
+
+**Helper Methods Best Practices:**
+- Write small, focused, single-responsibility methods
+- Examples: `isPalindrome(String s)`, `removeDuplicates(List<Integer> list)`
+- Improve code readability and reusability
+- Better testing and debugging
+
+**Advanced Scenario Projects:**
+
+**Example Class Structure Practice:**
+- Customer class with name, ID
+- Account class with balance, accountNumber
+- SavingsAccount extends Account with interestRate
+- CurrentAccount extends Account with overdraftLimit
+
+**Key Learning:**
+- Story-driven problem solving approach
+- Integrating all OOP concepts together
+- Classes, Variables, Methods, Constructors
+- Access Modifiers, Interfaces, Operators
+- Complete OOP Principles implementation
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice
+
