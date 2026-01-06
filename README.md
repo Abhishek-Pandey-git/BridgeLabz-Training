@@ -107,3 +107,66 @@ java-oops-practice/
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
 
+---
+
+### Day 6 – Encapsulation, Polymorphism, Interface & Abstract Class + Scenario-Based Problems  
+**Date:** 01-Jan-2026
+
+- Encapsulation with private fields and public methods.
+- Polymorphism (compile-time and runtime).
+- Interface implementation and abstract classes.
+- Real-world scenario-based problem solving.
+
+**Key Concepts Covered:**
+- Data hiding and encapsulation
+- Method overriding for runtime polymorphism
+- Interface contracts and multiple inheritance
+- Abstract classes vs interfaces
+- Helper methods and modular design
+
+**Helper Methods Practice:**
+- `validateUserInput()` - Input validation
+- `checkLoanEligibility()` - Business logic
+- `calculateDiscount()` - Mathematical operations
+- Keeping methods small, focused, and reusable
+
+**Scenario-Based Projects Completed:**
+
+**1. Hospital Patient Management System**
+- Classes: Patient, Doctor, Bill
+- Interface: Payable with calculatePayment()
+- Inheritance: InPatient, OutPatient extend Patient
+- Polymorphism: displayInfo() for different entities
+- Encapsulation: Private medicalHistory with public getSummary()
+
+**2. Vehicle Rental Application**
+- Classes: Vehicle, Bike, Car, Truck, Customer
+- Interface: Rentable with calculateRent(int days)
+- Inheritance: Car, Bike, Truck extend Vehicle
+- Operators: baseRate × days ± surcharges
+- Encapsulation: Protected vehicle attributes
+
+**3. University Course Enrollment System**
+- Classes: Student, Course, Faculty, Enrollment
+- Interface: Graded with assignGrade()
+- Inheritance: Undergraduate, Postgraduate extend Student
+- Operators: GPA calculations
+- Polymorphism: Different grading styles
+
+**4. E-Wallet Application**
+- Classes: User, Wallet, Transaction
+- Interface: Transferrable with transferTo()
+- Inheritance: PersonalWallet, BusinessWallet
+- Encapsulation: Private balance with getBalance()
+- Operators: Deductions, taxes, referral credits
+
+**5. Smart Home Automation System**
+- Classes: Appliance, Light, Fan, AC, UserController
+- Interface: Controllable with turnOn(), turnOff()
+- Inheritance: Device types extend Appliance
+- Polymorphism: Different behaviors for each appliance
+- Operators: Energy usage comparisons
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
+
