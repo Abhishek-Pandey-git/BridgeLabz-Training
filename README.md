@@ -139,3 +139,53 @@
 - Time-space tradeoff in problem solving
 - Amortized time complexity analysis
 - Cumulative sum technique with HashMap
+
+---
+
+### Day 3 (06-Jan-2026): Sorting Techniques
+
+**Topics Covered:**
+- Bubble Sort, Insertion Sort, Selection Sort
+- Merge Sort, Quick Sort, Heap Sort
+- Counting Sort
+- Time and space complexity analysis
+
+**Problems Solved:**
+
+1. **Bubble Sort - Student Marks**
+   - [Q1_BubbleSortStudentMarks.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q1_BubbleSortStudentMarks.java)
+   - Time Complexity: O(n²), Space: O(1)
+
+2. **Insertion Sort - Employee IDs**
+   - [Q2_InsertionSortEmployeeIDs.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q2_InsertionSortEmployeeIDs.java)
+   - Time Complexity: O(n²), Space: O(1)
+
+3. **Merge Sort - Book Prices**
+   - [Q3_MergeSortBookPrices.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q3_MergeSortBookPrices.java)
+   - Time Complexity: O(n log n), Space: O(n)
+
+4. **Quick Sort - Product Prices**
+   - [Q4_QuickSortProductPrices.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q4_QuickSortProductPrices.java)
+   - Time Complexity: O(n log n) average, Space: O(log n)
+
+5. **Selection Sort - Exam Scores**
+   - [Q5_SelectionSortExamScores.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q5_SelectionSortExamScores.java)
+   - Time Complexity: O(n²), Space: O(1)
+
+6. **Heap Sort - Job Applicant Salaries**
+   - [Q6_HeapSortSalary.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q6_HeapSortSalary.java)
+   - Time Complexity: O(n log n), Space: O(1)
+
+7. **Counting Sort - Student Ages**
+   - [Q7_CountingSortStudentAges.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q7_CountingSortStudentAges.java)
+   - Time Complexity: O(n + k), Space: O(k)
+
+**Key Concepts Learned:**
+- Comparison-based vs non-comparison-based sorting
+- In-place vs out-of-place sorting algorithms
+- Stable vs unstable sorting algorithms
+- Divide and conquer approach (Merge Sort, Quick Sort)
+- Heap data structure and heapify operations
+- Partitioning and pivot selection in Quick Sort
+- Counting Sort for limited range of integers
+- Time-space complexity tradeoffs in sorting
