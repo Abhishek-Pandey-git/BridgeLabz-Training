@@ -51,12 +51,32 @@ java-oops-practice/
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
 
 
-### Day  – Final Static and this keyword  
+### Day 3 – Final, Static, and this Keyword  
 **Date:** 29-Dec-2025
 
 - final keyword usage with variables, methods, and classes.
 - static keyword for variables and methods.
 - this keyword to reference current object.
+- Understanding static vs instance members.
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 4 – Object Oriented Design Principles  
+**Date:** 30-Dec-2025
+
+- Object modeling and class design.
+- Understanding relationships between classes.
+- Designing real-world systems using OOP.
+- Applied SOLID principles basics.
+
+**Key Focus:**
+- Class design and relationships
+- Object modeling techniques
+- Modular method design
+- Code organization and structure
 
 🔗 **Code Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
