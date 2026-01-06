@@ -201,3 +201,42 @@ java-oops-practice/
 
 
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 4 – OOP Design Principles
+**Date:** 30-Dec-2025
+
+- Object-Oriented Design Principles
+- Code organization and structure
+- Best practices in OOP
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 5 – Inheritance
+**Date:** 31-Dec-2025
+
+- Inheritance concepts and implementation
+- Parent-child class relationships
+- Method overriding and super keyword
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 6 – Encapsulation, Polymorphism, Interface & Abstract Classes
+**Date:** 01-Jan-2026
+
+- Encapsulation with getters/setters
+- Polymorphism (compile-time and runtime)
+- Interfaces and Abstract classes
+- Scenario-based applications: eWallet, BankScenario, HotelScenario
+
+🔗 **Code Links:**  
+👉 [eWallet App](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/ewallet)  
+👉 [Bank Scenario](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/bankscenario)  
+👉 [Hotel Scenario](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/hotelscenario)
