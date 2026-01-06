@@ -201,3 +201,15 @@ java-oops-practice/
 
 
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
+---
+
+### Day 4 – OOP Design Principles
+**Date:** 30-Dec-2025
+
+- Object-Oriented Design Principles
+- Code organization and structure
+- Best practices in OOP
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
