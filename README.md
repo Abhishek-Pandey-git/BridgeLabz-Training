@@ -325,3 +325,22 @@ java-oops-practice/
 7. **Counting Sort - Student Ages**
    - [Q7_CountingSortStudentAges.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q7_CountingSortStudentAges.java)
    - Time Complexity: O(n + k), Space: O(k)
+
+---
+
+### Day 4 (07-Jan-2026): String Operations, File I/O, Search Algorithms & OOP Practice
+
+**DSA Topics:**
+- StringBuffer/StringBuilder operations and performance comparison
+- FileReader and InputStreamReader for file I/O operations
+- Linear Search and Binary Search algorithm implementations
+
+**OOP Practice:**
+- BookBazaar - Digital bookstore system with inventory and orders
+- ParkEase - Smart parking management with slot tracking
+
+🔗 **Code Links:**  
+👉 [StringBuffer & FileReader](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader)  
+👉 [Linear & Binary Search](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary)  
+👉 [BookBazaar](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/bookbazaar)  
+👉 [ParkEase](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/parkease)
