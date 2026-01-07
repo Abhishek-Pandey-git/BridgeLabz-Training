@@ -205,7 +205,7 @@ java-oops-practice/
 
 ---
 
-### Day 8 – Ride-Hailing & Banking Applications  
+### Ride-Hailing & Banking Applications  
 **Date:** 03-Jan-2026
 
 - Building complete applications with multiple classes.
@@ -249,7 +249,7 @@ java-oops-practice/
 
 ---
 
-### Day 9 – College Portal & E-Commerce Applications  
+### College Portal & E-Commerce Applications  
 **Date:** 05-Jan-2026
 
 - Building comprehensive management systems.
@@ -294,7 +294,7 @@ java-oops-practice/
 
 ---
 
-### Day 10 – Learning & Fitness Management Applications  
+### Learning & Fitness Management Applications  
 **Date:** 06-Jan-2026
 
 - Building comprehensive learning and fitness tracking systems.
