@@ -180,3 +180,45 @@
    - [Q7_CountingSortStudentAges.java](dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q7_CountingSortStudentAges.java)
    - Time Complexity: O(n + k), Space: O(k)
 
+---
+
+### Day 4 (07-Jan-2026): StringBuffer, FileReader and Search Algorithms
+
+**Topics Covered:**
+- StringBuilder vs StringBuffer
+- FileReader and InputStreamReader
+- Linear Search Algorithm
+- Binary Search Algorithm
+
+**Programs Implemented:**
+
+#### StringBuffer Practice
+1. [ReverseString.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/stringbuffer/ReverseString.java) - Reverse string using StringBuffer
+2. [RemoveDuplicateCharacters.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/stringbuffer/RemoveDuplicateCharacters.java) - Remove duplicate characters from string
+3. [ConcatenateMultipleStrings.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/stringbuffer/ConcatenateMultipleStrings.java) - String concatenation performance
+4. [CompareStringBuilderStringBuffer.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/stringbuffer/CompareStringBuilderStringBuffer.java) - Performance comparison
+
+#### FileReader Practice
+1. [ReadFileLineByLine.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/filereader/ReadFileLineByLine.java) - Read text file line by line
+2. [CountWordOccurrenceInFile.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/filereader/CountWordOccurrenceInFile.java) - Count word occurrences in file
+3. [ConvertByteToCharacterStream.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/filereader/ConvertByteToCharacterStream.java) - Byte to character stream conversion
+4. [ReadConsoleWriteToFile.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/filereader/ReadConsoleWriteToFile.java) - Console input to file writer
+5. [ChallengeCompareAll.java](dsa-practice/gcr-codebase/dsaPractice/src/com/stringbufferfilereader/filereader/ChallengeCompareAll.java) - Performance comparison challenge
+
+#### Linear Search
+1. [SearchFirstNegativeNumber.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/linearsearch/SearchFirstNegativeNumber.java) - Find first negative in array
+2. [SearchWordInSentences.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/linearsearch/SearchWordInSentences.java) - Search word in sentence array
+3. [ChallengeLinearAndBinarySearch.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/linearsearch/ChallengeLinearAndBinarySearch.java) - Linear vs Binary performance
+
+#### Binary Search
+1. [FindRotationPoint.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/binarysearch/FindRotationPoint.java) - Rotation point in sorted array
+2. [FindPeakElement.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/binarysearch/FindPeakElement.java) - Peak element in array
+3. [SearchIn2DMatrix.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/binarysearch/SearchIn2DMatrix.java) - 2D matrix search
+4. [FindFirstAndLastOccurrence.java](dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary/binarysearch/FindFirstAndLastOccurrence.java) - First and last occurrence
+
+**Key Concepts Learned:**
+- Thread-safe vs non-thread-safe string operations
+- File I/O with character and byte streams
+- Linear search: O(n) time complexity
+- Binary search: O(log n) time complexity
+- 2D matrix search optimization
