@@ -100,7 +100,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 8 – Scenario-Based Problems & README Updates  
+### Scenario-Based Problems & README Updates  
 **Date:** 24-Dec-2025
 
 - Implemented scenario-based programs (Coffee Counter, BMI Tracker).
@@ -111,7 +111,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 9 – Scenario based problems, README improvements and leet code problems
+### Scenario based problems, README improvements and leet code problems
 **Date:** 26-Dec-2025
 
 - Implemented scenario-based programs (Election Booth Manager, Metro Smart Card, Raj's Result Generator).
@@ -128,7 +128,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 10 – LeetCode Problems  
+### LeetCode Problems  
 **Date:** 27-Dec-2025
 
 - Solved LeetCode problems focusing on arrays and strings.
