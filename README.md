@@ -372,5 +372,66 @@ java-oops-practice/
 
 ---
 
+### Bookstore, Parking & Loan Management Systems  
+**Date:** 07-Jan-2026
 
+- Implementing real-world business management systems.
+- Advanced OOP with user interaction and Scanner input.
+- Multi-file architecture with separate classes.
 
+**Projects Completed:**
+
+**14. LoanBuddy – Loan Management System**
+- Base Class: LoanApplication (applicant, loanType, term, interestRate)
+- Derived Classes: HomeLoan, EducationLoan, PersonalLoan extend LoanApplication
+- Applicant Class: name, creditScore, income, loanAmount
+- Interface: Approvable with approveLoan(), calculateEmi()
+- Encapsulation: Private applicant details with getter methods
+- Operators: EMI calculation using compound interest formula
+- Polymorphism: Different approval criteria per loan type
+
+**Key Features:**
+- Multi-loan type support (Home, Education, Personal)
+- Credit score-based approval logic
+- EMI calculation specific to loan type
+- Interactive user input with Scanner
+- Constructor-based initialization
+
+**15. BookBazaar – Digital Bookstore System**
+- Base Class: Book (title, author, price, stock)
+- Derived Classes: EBook, PrintedBook extend Book
+- Order Class: links user to books with quantity tracking
+- Interface: IDiscountable with applyDiscount()
+- Encapsulation: Stock updated only through methods
+- Operators: price × quantity - discount
+- Polymorphism: applyDiscount() varies by book type
+
+**Key Features:**
+- Inventory management with stock tracking
+- Different discount rates (EBook 15%, PrintedBook 10%)
+- Order management with multiple books
+- Constructor overloading for optional offers
+- Access modifiers for order status protection
+
+**16. ParkEase – Smart Parking Management System**
+- Base Class: Vehicle (vehicleNumber, ownerName, baseRate)
+- Derived Classes: Car, Bike, Truck extend Vehicle
+- ParkingSlot Class: slotId, isOccupied, vehicleTypeAllowed
+- Interface: IPayable with calculateCharges(duration)
+- Encapsulation: Slot availability modified only through methods
+- Operators: (baseRate × hours) + penalty for overtime
+- Polymorphism: calculateCharges() differs by vehicle type
+
+**Key Features:**
+- Real-time parking slot availability tracking
+- Vehicle type-specific parking slots
+- Overtime penalty calculations (Car: 8hrs, Bike: 12hrs, Truck: 6hrs)
+- Capacity-based charging for trucks
+- Private booking logs with public access methods
+
+🔗 **Code Links:**  
+👉 [LoanBuddy](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/loanbuddy)  
+👉 [BookBazaar](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/bookbazaar)  
+👉 [ParkEase](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/parkease)
+
+---
