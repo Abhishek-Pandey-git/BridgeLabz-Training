@@ -273,7 +273,9 @@ java-oops-practice/
 
 ---
 
-### Day 3 (05-Jan-2026): Advanced OOP Scenarios
+### Day 3 (06-Jan-2026): Advanced OOP Scenarios & Sorting Techniques
+
+**Part 1: Advanced OOP Scenarios**
 
 - CampusConnect college portal system
 - SwiftCart e-commerce application
@@ -285,3 +287,41 @@ java-oops-practice/
 👉 [SwiftCart](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/swiftcart)  
 👉 [EduMentor](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/edumentor)  
 👉 [FitTrack](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/fittrack)
+
+**Part 2: Sorting Techniques**
+
+**Topics Covered:**
+- Bubble Sort, Insertion Sort, Selection Sort
+- Merge Sort, Quick Sort, Heap Sort
+- Counting Sort
+- Time and space complexity analysis
+
+**Problems Solved:**
+
+1. **Bubble Sort - Student Marks**
+   - [Q1_BubbleSortStudentMarks.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q1_BubbleSortStudentMarks.java)
+   - Time Complexity: O(n²), Space: O(1)
+
+2. **Insertion Sort - Employee IDs**
+   - [Q2_InsertionSortEmployeeIDs.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q2_InsertionSortEmployeeIDs.java)
+   - Time Complexity: O(n²), Space: O(1)
+
+3. **Merge Sort - Book Prices**
+   - [Q3_MergeSortBookPrices.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q3_MergeSortBookPrices.java)
+   - Time Complexity: O(n log n), Space: O(n)
+
+4. **Quick Sort - Product Prices**
+   - [Q4_QuickSortProductPrices.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q4_QuickSortProductPrices.java)
+   - Time Complexity: O(n log n) average, Space: O(log n)
+
+5. **Selection Sort - Exam Scores**
+   - [Q5_SelectionSortExamScores.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q5_SelectionSortExamScores.java)
+   - Time Complexity: O(n²), Space: O(1)
+
+6. **Heap Sort - Job Applicant Salaries**
+   - [Q6_HeapSortSalary.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q6_HeapSortSalary.java)
+   - Time Complexity: O(n log n), Space: O(1)
+
+7. **Counting Sort - Student Ages**
+   - [Q7_CountingSortStudentAges.java](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/sorting/Q7_CountingSortStudentAges.java)
+   - Time Complexity: O(n + k), Space: O(k)
