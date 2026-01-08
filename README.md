@@ -344,3 +344,24 @@ java-oops-practice/
 👉 [Linear & Binary Search](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/linearandbinary)  
 👉 [BookBazaar](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/bookbazaar)  
 👉 [ParkEase](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/parkease)
+
+---
+
+### Day 5 (08-Jan-2026): Algorithm Runtime Analysis & Advanced OOP Systems
+
+**DSA Topics - Algorithm Performance Comparison:**
+- Linear Search vs Binary Search performance on large datasets
+- Bubble Sort vs Merge Sort vs Quick Sort efficiency comparison
+- String vs StringBuilder vs StringBuffer concatenation performance
+- FileReader vs InputStreamReader for large file reading
+- Recursive vs Iterative Fibonacci computation analysis
+- Array vs HashSet vs TreeSet search performance comparison
+
+**OOP Practice - Complex Scenario-Based Projects:**
+- MediStore - Pharmacy inventory system with expiry tracking and sales
+- TourMate - Travel itinerary planner with domestic and international trips
+
+🔗 **Code Links:**  
+👉 [Algorithm Runtime Analysis](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis)  
+👉 [MediStore](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/mediaStore)  
+👉 [TourMate](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/tourmate)
