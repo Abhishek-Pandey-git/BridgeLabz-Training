@@ -435,3 +435,53 @@ java-oops-practice/
 👉 [ParkEase](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/parkease)
 
 ---
+
+### Day 8 – Advanced Scenario-Based OOP Projects  
+**Date:** 08-Jan-2026
+
+**17. MediStore – Pharmacy Inventory & Sales System**
+- Base Class: Medicine (name, price, expiryDate, quantity)
+- Derived Classes: Tablet, Syrup, Injection extend Medicine
+- Interface: ISellable with sell() and checkExpiry() methods
+- Encapsulation: Stock and cost details are private
+- Polymorphism: checkExpiry() varies by medicine type
+  - Tablet: expires on stated date
+  - Syrup: expires 30 days before (liquid preservation)
+  - Injection: expires 15 days before (safety)
+- Operators: Total price calculation with discount support
+- Access Modifiers: Private pricing logic
+
+**Key Features:**
+- Inventory management with real-time stock updates
+- Expiry tracking with medicine-specific rules
+- Sales transactions with stock deduction
+- Different expiry behaviors for preserved vs liquid medications
+- Constructor overloading for default quantities
+- Interactive menu-driven system
+
+**18. TourMate – Travel Itinerary Planner**
+- Base Class: Trip (destination, budget, duration)
+- Derived Classes: InternationalTrip, DomesticTrip extend Trip
+- Associated Classes: Transport, Hotel, Activity
+- Interface: IBookable with book() and cancel() methods
+- Encapsulation: Cost breakdown hidden inside services
+- Polymorphism: book() logic differs by trip type
+  - InternationalTrip: includes visa charges, cancellation fees
+  - DomesticTrip: simple booking, no extra charges
+- Operators: total budget = hotel + transport + activities
+- Constructors: Generate complete trip packages
+
+**Key Features:**
+- Trip planning with budget management
+- Multiple service associations (hotel, transport, activities)
+- Different booking logic for domestic vs international trips
+- Visa requirement handling for international trips
+- Cancellation policy (20% fee for international trips)
+- Cost validation against budget before booking
+- Interactive trip creation and booking system
+
+🔗 **Code Links:**  
+👉 [MediStore](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/mediaStore)  
+👉 [TourMate](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/tourmate)
+
+---
