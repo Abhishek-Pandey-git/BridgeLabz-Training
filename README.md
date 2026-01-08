@@ -222,3 +222,64 @@
 - Linear search: O(n) time complexity
 - Binary search: O(log n) time complexity
 - 2D matrix search optimization
+
+---
+
+### Day 5 (08-Jan-2026): Algorithm Runtime Analysis
+
+**Topics Covered:**
+- Big O Notation and Time Complexity Analysis
+- Comparative Performance Testing
+- Search Algorithm Efficiency
+- Sorting Algorithm Comparison
+- String Operations Performance
+- File I/O Performance
+- Recursive vs Iterative Approaches
+- Data Structure Search Comparison
+
+**Programs Implemented:**
+
+1. **Search Algorithm Comparison**
+   - [SearchComparison.java](dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis/SearchComparison.java)
+   - Linear Search O(N) vs Binary Search O(log N)
+   - Performance tested on datasets: 1K, 10K, 1M elements
+   - Result: Binary search significantly faster for large datasets
+
+2. **Sorting Algorithm Comparison**
+   - [SortingComparison.java](dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis/SortingComparison.java)
+   - Bubble Sort O(N²) vs Merge Sort O(N log N) vs Quick Sort O(N log N)
+   - Tested on: 1K, 10K, 100K elements
+   - Result: Bubble sort impractical for large data, Quick sort fastest
+
+3. **String Concatenation Performance**
+   - [StringConcatenation.java](dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis/StringConcatenation.java)
+   - String O(N²) vs StringBuilder O(N) vs StringBuffer O(N)
+   - Tested: 1K, 10K, 100K operations
+   - Result: StringBuilder fastest, String unusable for large ops
+
+4. **File Reading Efficiency**
+   - [FileReadingComparison.java](dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis/FileReadingComparison.java)
+   - FileReader vs InputStreamReader performance
+   - File sizes: 1MB, 10MB, 50MB
+   - Result: InputStreamReader more efficient for large files
+
+5. **Fibonacci Computation**
+   - [FibonacciComparison.java](dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis/FibonacciComparison.java)
+   - Recursive O(2^n) vs Iterative O(N)
+   - Tested: Fib(10), Fib(20), Fib(30), Fib(40)
+   - Result: Recursive impractical for n>40, iterative highly efficient
+
+6. **Data Structure Search Performance**
+   - [DataStructureSearch.java](dsa-practice/gcr-codebase/dsaPractice/src/com/algoruntimeanalysis/DataStructureSearch.java)
+   - Array O(N) vs HashSet O(1) vs TreeSet O(log N)
+   - Dataset sizes: 1K, 100K, 1M elements
+   - Result: HashSet fastest, TreeSet maintains order
+
+**Key Concepts Learned:**
+- Time complexity analysis and measurement
+- Space-time tradeoffs in algorithms
+- Practical performance vs theoretical complexity
+- Exponential growth in recursive algorithms
+- Hash-based vs tree-based data structures
+- Choosing right algorithm for dataset size
+- Amortized analysis in string operations
