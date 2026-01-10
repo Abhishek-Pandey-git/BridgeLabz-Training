@@ -487,7 +487,7 @@ java-oops-practice/
 ---
 ---
 
-### Day X – Scenario Implementations
+### Day 9 – Scenario Implementations
 **Date:** 09-Jan-2026
 
 - Implemented three scenario-based OOP programs and added them to the repository on branch `java-oops-practice`:
@@ -501,9 +501,5 @@ java-oops-practice/
     - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/skillforge
     - Files added: ICertifiable.java, User.java, Student.java, Instructor.java, Course.java, SkillForgeDemo.java
 
-- Each file was committed individually using the message format:
-  - `[Abhishek Pandey]: Add <file name> <small description>`
-
-- All changes were pushed to branch `java-oops-practice` on 09-Jan-2026.
-
+- 
 ---
