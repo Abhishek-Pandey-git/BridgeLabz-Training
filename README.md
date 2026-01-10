@@ -485,3 +485,25 @@ java-oops-practice/
 👉 [TourMate](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/tourmate)
 
 ---
+---
+
+### Day X – Scenario Implementations
+**Date:** 09-Jan-2026
+
+- Implemented three scenario-based OOP programs and added them to the repository on branch `java-oops-practice`:
+  - Artify – Digital Art Marketplace
+    - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/artify
+    - Files added: IPurchasable.java, Artwork.java, DigitalArt.java, PrintArt.java, User.java, ArtifyDemo.java
+  - FoodLoop – Restaurant Ordering System
+    - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/foodloop
+    - Files added: IOrderable.java, FoodItem.java, VegItem.java, NonVegItem.java, Order.java, FoodLoopDemo.java
+  - SkillForge – Online Learning Portal
+    - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/skillforge
+    - Files added: ICertifiable.java, User.java, Student.java, Instructor.java, Course.java, SkillForgeDemo.java
+
+- Each file was committed individually using the message format:
+  - `[Abhishek Pandey]: Add <file name> <small description>`
+
+- All changes were pushed to branch `java-oops-practice` on 09-Jan-2026.
+
+---
