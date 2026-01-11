@@ -283,3 +283,76 @@
 - Hash-based vs tree-based data structures
 - Choosing right algorithm for dataset size
 - Amortized analysis in string operations
+
+### Day 6 (10-Jan-2026): Scenario-Based DSA Applications
+
+**Topics Covered:**
+- Real-world data structure implementations
+- HashMap + LinkedList combination
+- Doubly LinkedList + Stack for navigation
+- Circular LinkedList for round-robin systems
+
+**Scenario-Based Projects Implemented:**
+
+#### 1. BookShelf - Library Organizer System
+**Data Structures Used:** HashMap + LinkedList
+**Location:** [bookshelf](dsa-practice/scenario-based/dsaScenariBased/src/com/bookshelf/)
+
+**Components:**
+- [Book.java](dsa-practice/scenario-based/dsaScenariBased/src/com/bookshelf/Book.java) - Book data model
+- [BookNode.java](dsa-practice/scenario-based/dsaScenariBased/src/com/bookshelf/BookNode.java) - LinkedList node
+- [BookList.java](dsa-practice/scenario-based/dsaScenariBased/src/com/bookshelf/BookList.java) - Custom LinkedList with add/remove operations
+- [Library.java](dsa-practice/scenario-based/dsaScenariBased/src/com/bookshelf/Library.java) - HashMap-based genre catalog
+- [LibrarySystem.java](dsa-practice/scenario-based/dsaScenariBased/src/com/bookshelf/LibrarySystem.java) - Demo application
+
+**Features:**
+- Genre-wise book organization using HashMap
+- Dynamic book insertion/deletion using LinkedList
+- Efficient book borrowing and returning
+- Catalog display by genre
+
+#### 2. BrowserBuddy - Tab History Manager
+**Data Structures Used:** Doubly LinkedList + Stack
+**Location:** [broswerbuddy](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/)
+
+**Components:**
+- [TabNode.java](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/TabNode.java) - Doubly LinkedList node
+- [BrowserHistory.java](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/BrowserHistory.java) - Forward/backward navigation
+- [StackNode.java](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/StackNode.java) - Stack node
+- [ClosedTabStack.java](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/ClosedTabStack.java) - Closed tabs management
+- [Browser.java](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/Browser.java) - Main browser logic
+- [BrowserBuddy.java](dsa-practice/scenario-based/dsaScenariBased/src/com/broswerbuddy/BrowserBuddy.java) - Demo application
+
+**Features:**
+- Page visit tracking with doubly linked list
+- Back and forward navigation
+- Closed tab storage using stack (LIFO)
+- Reopen recently closed tabs
+- Memory-efficient tab management
+
+#### 3. AmbulanceRoute - Emergency Patient Navigation
+**Data Structures Used:** Circular LinkedList
+**Location:** [ambulance](dsa-practice/scenario-based/dsaScenariBased/src/com/ambulance/)
+
+**Components:**
+- [HospitalUnit.java](dsa-practice/scenario-based/dsaScenariBased/src/com/ambulance/HospitalUnit.java) - Circular LinkedList node
+- [CircularRoute.java](dsa-practice/scenario-based/dsaScenariBased/src/com/ambulance/CircularRoute.java) - Circular route management
+- [AmbulanceRoute.java](dsa-practice/scenario-based/dsaScenariBased/src/com/ambulance/AmbulanceRoute.java) - Demo application
+
+**Features:**
+- Circular hospital unit routing (Emergency  Radiology  Surgery  ICU  Emergency)
+- Find nearest available unit using circular traversal
+- Unit availability tracking
+- Dynamic unit removal for maintenance
+- Patient redirection in circular path
+
+**Key Concepts Learned:**
+- Combining multiple data structures for complex problems
+- HashMap for O(1) lookup with LinkedList for ordering
+- Doubly LinkedList for bidirectional traversal
+- Stack for LIFO operations (closed tabs)
+- Circular LinkedList for round-robin scheduling
+- Real-world application design patterns
+- Memory-efficient pointer-based navigation
+
+---
