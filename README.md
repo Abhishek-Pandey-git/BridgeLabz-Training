@@ -439,3 +439,41 @@ java-oops-practice/
 - Memory-efficient pointer-based navigation
 
 ---
+
+## (12-Jan-2026): Advanced Scenario-Based DSA Problems
+
+**Topics Covered:**
+- Queue + HashMap + PriorityQueue
+- Doubly LinkedList navigation systems
+- Stack-based undo/redo mechanisms
+- Circular LinkedList + Queue combinations
+
+**Scenario-Based Projects:** [scenario-based](dsa-practice/scenario-based/dsaScenariBased/src/com/)
+
+1. **CallCenter** - Customer Queue Manager (Queue + HashMap + PriorityQueue)
+2. **TrainCompanion** - Compartment Navigation System (Doubly LinkedList)
+3. **TextEditor** - Undo/Redo Functionality (Stack)
+4. **TrafficManager** - Roundabout Vehicle Flow (Circular LinkedList + Queue)
+
+ #### Advanced OOP Scenario Projects
+
+**Date:** 12-Jan-2026
+
+
+
+**Tasks Completed:**
+
+
+
+**22. HomeNest – Smart Home Device Manager**
+
+**23. BudgetWise – Personal Finance Tracker**
+
+**24. GameBox – Mobile Game Distribution Platform**
+
+
+
+🔗 **Code Link:**  
+
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
+
