@@ -501,5 +501,18 @@ java-oops-practice/
     - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/skillforge
     - Files added: ICertifiable.java, User.java, Student.java, Instructor.java, Course.java, SkillForgeDemo.java
 
-- 
+---
+
+### Day 10 – Advanced OOP Scenario Projects
+**Date:** 12-Jan-2026
+
+**Projects Completed:**
+
+**22. HomeNest – Smart Home Device Manager**
+**23. BudgetWise – Personal Finance Tracker**
+**24. GameBox – Mobile Game Distribution Platform**
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
+
 ---
