@@ -477,3 +477,49 @@ java-oops-practice/
 
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions
 
+---
+
+## 13-Jan-2026: DSA Scenario and OOP Scanario
+**Topics Covered:**
+- Singly Linked List for delivery tracking
+- Stack + HashMap for exam navigation
+- Queue + HashMap for checkout systems
+
+**Projects Implemented:** [scenario-based](dsa-practice/scenario-based/dsaScenariBased/src/com/)
+
+1. **[SmartCheckout](dsa-practice/scenario-based/dsaScenariBased/src/com/smartcheckout/)** - Multi-Counter Checkout System
+   - Queue-based customer management
+   - HashMap cart implementation
+   - Store inventory tracking with HashMap
+
+2. **[ParcelTracker](dsa-practice/scenario-based/dsaScenariBased/src/com/parcelTracker/)** - Delivery Chain Management
+   - Singly Linked List for stage tracking
+   - Custom checkpoints and timestamps
+   - Lost/missing parcel handling
+
+3. **[ExamProctor](dsa-practice/scenario-based/dsaScenariBased/src/com/examproctor/)** - Online Exam Review System
+   - Stack-based navigation tracking
+   - HashMap for answer storage
+   - Auto-scoring function with polymorphism
+
+**Projects Completed:**
+
+**25. EcoWing Bird Sanctuary – Wildlife Management System**
+- Base Class: Bird (abstract with common properties)
+- Interfaces: Flyable, Swimmable with abstract methods
+- Derived Classes: Eagle, Sparrow, Duck, Seagull, Penguin, Kiwi, Ostrich
+- Polymorphism: fly() and swim() called dynamically based on bird type
+- Inheritance: All birds extend Bird class with specific abilities
+- Encapsulation: Protected bird attributes with getter methods
+
+**26. PayXpress – Utility Bill Payment System**
+- Base Class: Bill (type, amount, dueDate, isPaid)
+- Interface: IPayable with pay() and sendReminder()
+- Derived Classes: ElectricityBill, WaterBill, InternetBill
+- Operators: Late fee calculation (baseAmount + penalty)
+- Encapsulation: Payment status modification through methods only
+- Polymorphism: Different reminder messages per utility type
+
+🔗 **Code Links:**  
+👉 [Bird Sanctuary](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/birdsanctuary)  
+👉 [PayXpress](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/payxpress)
