@@ -373,3 +373,29 @@
 4. **TrafficManager** - Roundabout Vehicle Flow (Circular LinkedList + Queue)
 
 ---
+
+### Day 8 (13-Jan-2026): Complex Scenario-Based DSA Projects
+
+**Topics Covered:**
+- Singly Linked List for delivery tracking
+- Stack + HashMap for exam navigation
+- Queue + HashMap for checkout systems
+
+**Projects Implemented:** [scenario-based](dsa-practice/scenario-based/dsaScenariBased/src/com/)
+
+1. **[SmartCheckout](dsa-practice/scenario-based/dsaScenariBased/src/com/smartcheckout/)** - Multi-Counter Checkout System
+   - Queue-based customer management
+   - HashMap cart implementation
+   - Store inventory tracking with HashMap
+
+2. **[ParcelTracker](dsa-practice/scenario-based/dsaScenariBased/src/com/parcelTracker/)** - Delivery Chain Management
+   - Singly Linked List for stage tracking
+   - Custom checkpoints and timestamps
+   - Lost/missing parcel handling
+
+3. **[ExamProctor](dsa-practice/scenario-based/dsaScenariBased/src/com/examproctor/)** - Online Exam Review System
+   - Stack-based navigation tracking
+   - HashMap for answer storage
+   - Auto-scoring function with polymorphism
+
+---
