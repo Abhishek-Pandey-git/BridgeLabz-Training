@@ -400,7 +400,7 @@
 
 ---
 
-### Day 9 (16-Jan-2026): Sorting Algorithms - Scenario-Based Applications
+### Day 9 (15-Jan-2026): Sorting Algorithms - Scenario-Based Applications
 
 **Topics Covered:**
 - Merge Sort, Insertion Sort, Bubble Sort, Quick Sort
