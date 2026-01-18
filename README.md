@@ -439,9 +439,19 @@
    - Product tracking and organization
 
 ---
-## (16-Jan-2026): Sorting Algorithms - Scenario-Based Applications
+### (16-Jan-2026): Sorting Algorithms - Scenario-Based Applications
 
 - Solved additional scenario based problems involving sorting algorithms.
 - Implemented efficient sorting solutions for real-world applications.
 - Enhanced understanding of algorithm selection based on data characteristics.
-- 
+
+
+---
+### 17 Jan 2026 : Learned additional problems on sorting with real life based scenario
+- Implemented various sorting algorithms to solve practical problems.
+- Focused on optimizing performance based on data size and structure.
+- Gained deeper insights into algorithm efficiency and application.
+
+**Link:** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+
+---
