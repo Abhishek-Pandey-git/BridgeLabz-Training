@@ -4,7 +4,7 @@
 
 ---
 
-### Day 1 : Java Genrics
+### Day 1 : 16-jan-2025 Java Genrics
 - Introduction to Generics
 - Generic Classes and Methods
 - Bounded Type Parameters
