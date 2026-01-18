@@ -573,6 +573,7 @@ java-oops-practice/
 - Type safety and reusability
 - Scenario-based applications
 - Sorting algorithms in real-world contexts
-*Generics* 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/javagenerics
+  <br>
+**Generics** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/javagenerics
 
-*DSA Scenario based problems* 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+ **DSA Scenario based problems**  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
