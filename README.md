@@ -577,3 +577,9 @@ java-oops-practice/
 **Generics** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/javagenerics
 
  **DSA Scenario based problems**  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+
+ ---
+
+### Day 11 (17-Jan-2026): Scenario based dsa Problems and oop problems
+-  Scenario based dsa Problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+- oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion
