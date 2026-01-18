@@ -545,6 +545,7 @@ java-oops-practice/
 ---
 
 ### day 12 - OOP scenario based problems
+**17-Jan 2026**
 - solved bangballa scenario based problem and added to the repository on branch `java-oops-practice`
 - solved geomeasure scenario based problem
 - <br>
