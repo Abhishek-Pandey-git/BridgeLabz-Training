@@ -543,3 +543,10 @@ java-oops-practice/
 👉 [PayXpress](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/payxpress)
 
 ---
+
+### day 12 - OOP scenario based problems
+- solved bangballa scenario based problem and added to the repository on branch `java-oops-practice`
+- solved geomeasure scenario based problem
+- <br>
+
+**Link:** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion
