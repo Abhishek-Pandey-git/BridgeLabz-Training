@@ -551,3 +551,11 @@ java-oops-practice/
 - <br>
 
 **Link:** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion
+
+---
+### Day 13 – OOP Scenario-Based Problems
+**Date:** 19-Jan-2026
+- Implemented two scenario-based OOP programs and added them to the repository on branch `java-oops-practice`:
+  - AddressBook – Contact Management System
+
+**LINK**: 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/addressbook
