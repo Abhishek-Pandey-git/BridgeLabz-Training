@@ -455,3 +455,10 @@
 **Link:** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
 
 ---
+### 18 Jan 2025: Continued dsa scenario based problems on sorting algorithms
+- Focused on solving complex sorting problems with real-life scenarios.
+- Implemented and tested various sorting algorithms for efficiency.
+- Enhanced problem-solving skills in algorithm design and application.
+
+<br>
+**Links:** 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
