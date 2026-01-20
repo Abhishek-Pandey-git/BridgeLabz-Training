@@ -583,3 +583,13 @@ java-oops-practice/
 ### Day 11 (17-Jan-2026): Scenario based dsa Problems and oop problems
 -  Scenario based dsa Problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
 - oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion
+
+
+---
+
+### Day 12 (19-Jan-2026): Final Scenario based dsa Problems and oop problems
+-  Scenario based dsa Problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+-  
+oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/addressbook
+
+
