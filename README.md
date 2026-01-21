@@ -593,3 +593,8 @@ java-oops-practice/
 oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/addressbook
 
 
+---
+
+### 20-Jan-2026: Final Day - Dsa Scenario based and collections
+-  Scenario based dsa Problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+-  Collections in java  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/collections
