@@ -21,3 +21,14 @@
 👍 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/javagenerics
 
 ---
+
+### 20-Jan-2026: Java Collections frameworks
+- Introduction to Java Collections Framework
+- List, Set, Map Interfaces and their Implementations
+- Queue and Deque Interfaces
+- Collections Utility Class
+- Iterators and Enhanced for Loop
+- Sorting and Searching Collections
+
+<br>
+<b>LINK :=></b> https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/collections
