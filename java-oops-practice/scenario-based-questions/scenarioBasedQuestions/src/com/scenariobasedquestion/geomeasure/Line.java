@@ -12,14 +12,7 @@ public class Line {
     private double y2;
     private String lineName;
     
-    /**
-     * Constructor to initialize a line with coordinates
-     * @param x1 X-coordinate of first point
-     * @param y1 Y-coordinate of first point
-     * @param x2 X-coordinate of second point
-     * @param y2 Y-coordinate of second point
-     * @param lineName Name/identifier for the line
-     */
+   
     public Line(double x1, double y1, double x2, double y2, String lineName) {
         this.x1 = x1;
         this.y1 = y1;
@@ -28,11 +21,7 @@ public class Line {
         this.lineName = lineName;
     }
     
-    /**
-     * Calculates the length of the line using distance formula
-     * Length = sqrt((x2-x1)² + (y2-y1)²)
-     * @return Length of the line
-     */
+   
     public double calculateLength() {
         double dx = x2 - x1;
         double dy = y2 - y1;
@@ -60,11 +49,7 @@ public class Line {
         return lineName;
     }
     
-    /**
-     * Compares this line with another line
-     * @param otherLine Line to compare with
-     * @return Comparison result message
-     */
+    
     public String compareTo(Line otherLine) {
         double thisLength = this.calculateLength();
         double otherLength = otherLine.calculateLength();
