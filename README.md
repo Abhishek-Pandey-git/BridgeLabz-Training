@@ -481,3 +481,17 @@
 **LINK**: 👉: https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
 
 ---
+
+### 21 Jan 2026: Continued dsa scenario based problems: solved sorting and tree based problems
+- **Tree Based**
+  - <a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com/musicLibrary">[Music Library] </a> - Music library management system using tree data structure.
+  - <a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com/productinventory">[Inventory Management]</a>
+  - <a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com/universityrecords">[University Records]</a>
+- **Sorting Based**
+  - Solved various sorting based scenario problems.
+  - Enhanced understanding of sorting algorithms in practical applications.
+  - Improved algorithm efficiency through real-world problem solving.
+
+**LINK**: 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+
+---
