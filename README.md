@@ -35,7 +35,7 @@
 
 ---
 
-### 22-Jan-2026: Java Streams and File I/O
+### 21-Jan-2026: Java Streams and File I/O
 - File Handling with Streams
 - Buffered Streams for Performance
 - Object Serialization and Deserialization
