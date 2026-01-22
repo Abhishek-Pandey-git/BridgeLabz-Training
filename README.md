@@ -598,3 +598,11 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
 ### 20-Jan-2026: Final Day - Dsa Scenario based and collections
 -  Scenario based dsa Problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
 -  Collections in java  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/collections
+-  
+
+--- 
+
+### 21-Jan-2026: Final Day - Dsa Scenario based and Streams
+-  Scenario based dsa Problems  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
+-  Streams in java  👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/streams
+-  
