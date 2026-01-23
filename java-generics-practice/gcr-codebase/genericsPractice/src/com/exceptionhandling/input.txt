@@ -1,0 +1,5 @@
+Exception handling in Java is a powerful mechanism to handle runtime errors, ensuring the smooth execution of the program. 
+It is managed via five keywords: try, catch, finally, throw, and throws.
+1. try: The code that might throw an exception is placed inside a try block.
+2. catch: This block is used to handle the exception thrown by the try block.
+3. finally: This block is executed after the try and catch blocks, regardless of whether an exception was thrown or not. It is typically used for cleanup activities.
