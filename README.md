@@ -59,3 +59,18 @@
 
 <br>
 <b>LINK :=></b> https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/streams
+
+---
+
+### 22-Jan-2026: Exception Handling and REGEX
+- Introduction to Exception Handling
+- Types of Exceptions
+- Try-Catch Blocks
+- Finally Block
+- REGEX Basics
+- Pattern and Matcher Classes
+
+**LINK:**
+- **Exception Handling:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/exceptionhandling
+
+- **REGEX:**https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-generics-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/regex
