@@ -495,3 +495,24 @@
 **LINK**: 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com
 
 ---
+
+### 22 Jan 2026: Solved BST-based scenario problems - Real-time systems
+Implemented three Binary Search Tree (BST) based systems for real-world scenarios:
+
+- **<a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com/realtimeleaderboard">Gaming App - Real-Time Leaderboard</a>**
+  - Insert/Update player with score
+  - Display top 10 players ranked by score
+  - Remove player (ban/exit handling)
+  
+- **<a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com/bookingbytime">Online Ticket Booking by Time</a>**
+  - Insert event sorted by start time
+  - Cancel event efficiently
+  - Display events in chronological order
+
+- **<a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/dsaScenariBased/src/com/hospitalqueuemanagement">Hospital Queue Management</a>**
+  - Patient registration with check-in time
+  - Discharge/Delete patient record
+  - Display patients by arrival time
+
+**Key Concepts:** BST operations (insert, delete, traversal), time-based sorting, efficient lookups, inorder/reverse-inorder traversal
+
