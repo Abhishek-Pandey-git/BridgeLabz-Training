@@ -1,0 +1,23 @@
+package com.exceptionhandling;
+
+// Exception propagates from method1() -> method2() -> main()
+public class ExceptionPropagation {
+	
+	public static void method1() {
+		// This throws ArithmeticException
+		int result = 10 / 0;
+		System.out.println(result);
+	}
+	
+	public static void method2() {
+		method1();
+	}
+	
+	public static void main(String[] args) {
+		try {
+			method2();
+		} catch (ArithmeticException e) {
+			System.err.println("Handled exception in main");
+		}
+	}
+}
