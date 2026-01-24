@@ -649,3 +649,37 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
 *Modification:*
 - Replace multiple spaces with single space
 - Censor bad words with asterisks
+
+---
+
+### 23-Jan-2026: JUnit Testing and Scenario-Based Problems
+- JUnit 5 Basics
+- Writing Test Cases
+- Annotations (@Test, @BeforeEach, @AfterEach, @BeforeAll, @AfterAll)
+- Assertions (assertEquals, assertTrue, assertFalse, assertThrows)
+- Test-Driven Development Practice
+
+> #### JUnit Practice Problems:
+> 1. BankAccount - Test deposit, withdraw, and balance operations
+> 2. PasswordValidator - Test password strength validation
+> 3. TemperatureConverter - Test Celsius to Fahrenheit conversions
+> 4. DateFormatter - Test date format transformations
+> 5. UserRegistration - Test user registration validation
+> 6. Calculator - Test basic arithmetic operations
+> 7. Database Connectivity - Test database connection scenarios
+> 8. File Processing - Test file read and write operations
+> 9. String Utilities - Test string manipulation methods
+> 10. Long Running Process - Test time-consuming operations
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/junit
+
+---
+
+> #### Real-World Scenario-Based Problems (Collections + I/O + Regex):
+> 1. **ResumeAnalyzer** - Smart resume filtering system that reads resumes from folder, extracts contact details using regex, indexes candidates by email, and sorts by keyword match count
+> 2. **TravelLog** - Trip organizer using object serialization to save/load travel experiences, search cities with regex, filter trips by duration, and track unique countries visited
+> 3. **FeedbackGuru** - Survey analyzer that reads feedback files, extracts ratings with regex, categorizes feedback (Positive/Neutral/Negative) using generics and collections
+> 4. **CodeRepoCleaner** - Java file scanner that analyzes code repository, detects naming violations with regex, categorizes files (Valid/Warnings/Errors), and filters by size
+> 5. **ExamScanner** - Answer sheet validator that parses CSV files, validates format with regex, scores answers against answer key, and ranks students using PriorityQueue
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/scenario-based/collections_scenario_based/src/com
