@@ -108,3 +108,13 @@
 > 5. **ExamScanner** - Answer sheet validator that parses CSV files, validates format with regex, scores answers against answer key, and ranks students using PriorityQueue
 
 **LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/scenario-based/collections_scenario_based/src/com
+
+---
+
+### 24-Jan-2026: Java Reflection and Annotations
+- **Java Reflection API** - Dynamic class inspection, field/method access, private member manipulation, dynamic object creation, annotation retrieval, custom object mappers, JSON generation, dependency injection, and proxy patterns (12 problems covering basic to advanced concepts)
+- **Custom Annotations** - Created custom annotations with runtime retention including @LogExecutionTime, @MaxLength, @RoleAllowed, @JsonField, @CacheResult, @BugReport (repeatable), @ImportantMethod, @Todo, and @TaskInfo with practical reflection-based implementations
+
+**LINK:** 
+- **Reflection:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/reflections
+- **Annotations:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/annotations
