@@ -707,3 +707,49 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
   <br>
 
   **LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-ioprograming-practice/java-ioprogramming-practice/gcr-codebase/ioprogramming/src/com/csvhandling
+
+
+---
+
+### 27 Jan-2026: Advanced Java IO and File Handling with JSON and COLLECTIONS scenario based problems
+- 
+- Deep dive into Java IO classes and interfaces
+- - Reading and parsing JSON files
+- Converting Java objects to JSON arrays
+- Filtering JSON data based on conditions
+- Email validation using JSON Schema and regex
+- Merging multiple JSON files
+- Converting JSON to XML format
+- Converting CSV data to JSON format
+- Generating JSON reports from database records
+- **IPL Censor Analyzer** - Comprehensive application to censor IPL match data by masking team names and redacting player information in both JSON and CSV formats
+
+> #### JSON Handling Problems:
+> 1. ReadJsonFile - Read JSON file and display all keys and values
+> 2. ConvertListToJsonArray - Convert list of Java objects to JSON array
+> 3. FilterJsonByAge - Filter and print users older than 25 years
+> 4. ValidateEmailJson - Validate email fields using regex patterns
+> 5. MergeJsonFiles - Merge two JSON files into single JSON object
+> 6. ConvertJsonToXml - Convert JSON data to XML format
+> 7. ConvertCsvToJson - Convert CSV data into JSON format
+> 8. GenerateJsonReport - Generate JSON report from database records
+> 9. IPLCensorAnalyzer - Censor IPL match data in JSON and CSV formats
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-ioprograming-practice/java-ioprogramming-practice/gcr-codebase/ioprogramming/src/com/jsonhandling
+
+- collections scenario based problems
+ File I/O with BufferedReader for efficient data processing
+- Regex pattern matching for data extraction and validation
+- Advanced Collections usage (Map, Set, List, PriorityQueue, TreeMap)
+- Custom exception handling for business logic
+- Date parsing and validation with LocalDate
+- Generic-friendly design for extensibility
+
+> #### Advanced Real-World Problems:
+> 1. **MedInventory** - Smart Hospital Inventory Tracker that reads CSV inventory files, detects expired items using regex, categorizes medical supplies by type, removes duplicates, and raises custom exceptions for critically low supplies
+> 2. **ChatLogParser** - Messaging Pattern Analyzer that parses chat logs with regex, extracts timestamp/user/message, filters idle chat, stores in TreeMap for alphabetical sorting, and implements generic MessageFilter interface
+> 3. **SongVault** - Personal Music Library Manager that reads song files with I/O streams, extracts fields using regex, groups by genre, maintains unique artists with Set, and supports filtering/sorting with Java Streams
+> 4. **ExamResultUploader** - Bulk Marks Processing system that validates CSV data with regex, stores subject-wise marks, calculates top scorers using PriorityQueue, and throws custom exceptions for invalid formats
+> 5. **DealTracker** - E-Commerce Discount Validator that parses deal files, uses regex for percentage/date extraction, filters expired deals with LocalDate, prevents duplicates with Set, and sorts by discount
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/scenario-based/collections_scenario_based/src/com
