@@ -15,3 +15,29 @@ This week, we will explore Java's Input/Output (IO) programming capabilities. Ja
 
   ---
 
+### 27-Jan-2026: JSON Handling and IPL Censor Analyzer
+- Reading and parsing JSON files
+- Converting Java objects to JSON arrays
+- Filtering JSON data based on conditions
+- Email validation using JSON Schema and regex
+- Merging multiple JSON files
+- Converting JSON to XML format
+- Converting CSV data to JSON format
+- Generating JSON reports from database records
+- **IPL Censor Analyzer** - Comprehensive application to censor IPL match data by masking team names and redacting player information in both JSON and CSV formats
+
+> #### JSON Handling Problems:
+> 1. ReadJsonFile - Read JSON file and display all keys and values
+> 2. ConvertListToJsonArray - Convert list of Java objects to JSON array
+> 3. FilterJsonByAge - Filter and print users older than 25 years
+> 4. ValidateEmailJson - Validate email fields using regex patterns
+> 5. MergeJsonFiles - Merge two JSON files into single JSON object
+> 6. ConvertJsonToXml - Convert JSON data to XML format
+> 7. ConvertCsvToJson - Convert CSV data into JSON format
+> 8. GenerateJsonReport - Generate JSON report from database records
+> 9. IPLCensorAnalyzer - Censor IPL match data in JSON and CSV formats
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-ioprograming-practice/java-ioprogramming-practice/gcr-codebase/ioprogramming/src/com/jsonhandling
+
+  ---
+
