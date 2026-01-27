@@ -118,3 +118,22 @@
 **LINK:** 
 - **Reflection:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/reflections
 - **Annotations:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/gcr-codebase/genericsPractice/src/com/annotations
+
+---
+
+### 27-Jan-2026: Advanced Scenario-Based Problems (Collections + I/O + Regex)
+- File I/O with BufferedReader for efficient data processing
+- Regex pattern matching for data extraction and validation
+- Advanced Collections usage (Map, Set, List, PriorityQueue, TreeMap)
+- Custom exception handling for business logic
+- Date parsing and validation with LocalDate
+- Generic-friendly design for extensibility
+
+> #### Advanced Real-World Problems:
+> 1. **MedInventory** - Smart Hospital Inventory Tracker that reads CSV inventory files, detects expired items using regex, categorizes medical supplies by type, removes duplicates, and raises custom exceptions for critically low supplies
+> 2. **ChatLogParser** - Messaging Pattern Analyzer that parses chat logs with regex, extracts timestamp/user/message, filters idle chat, stores in TreeMap for alphabetical sorting, and implements generic MessageFilter interface
+> 3. **SongVault** - Personal Music Library Manager that reads song files with I/O streams, extracts fields using regex, groups by genre, maintains unique artists with Set, and supports filtering/sorting with Java Streams
+> 4. **ExamResultUploader** - Bulk Marks Processing system that validates CSV data with regex, stores subject-wise marks, calculates top scorers using PriorityQueue, and throws custom exceptions for invalid formats
+> 5. **DealTracker** - E-Commerce Discount Validator that parses deal files, uses regex for percentage/date extraction, filters expired deals with LocalDate, prevents duplicates with Set, and sorts by discount
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/scenario-based/collections_scenario_based/src/com
