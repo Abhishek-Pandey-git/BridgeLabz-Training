@@ -1,4 +1,4 @@
-#Week 5 - JAVA IO-PROGRAMMING
+# Week 5 - JAVA IO-PROGRAMMING
 This week, we will explore Java's Input/Output (IO) programming capabilities. Java provides a rich set of classes and interfaces in the `java.io` package to handle various types of input and output operations, including reading from and writing to files, handling streams, and working with data serialization.
 
 ### Day 1: Introduction to Java IO and CSV handling of files
@@ -15,4 +15,3 @@ This week, we will explore Java's Input/Output (IO) programming capabilities. Ja
 
   ---
 
-  
