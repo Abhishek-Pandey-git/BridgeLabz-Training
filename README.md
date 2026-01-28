@@ -41,3 +41,21 @@ This week, we will explore Java's Input/Output (IO) programming capabilities. Ja
 
   ---
 
+### 28-Jan-2026: Scenario-Based Problems - Annotations, Reflection, CSV and JSON
+- Creating custom annotations with retention and target policies
+- Using Java Reflection API to scan classes and methods
+- Processing annotations at runtime to generate documentation
+- Reading and parsing CSV files with BufferedReader
+- Converting CSV data to JSON format with proper structure
+- Generating JSON audit logs with timestamps
+- Implementing audit trail system using annotations
+
+> #### Scenario-Based Problems:
+> 1. **HealthCheckPro – API Metadata Validator** - API metadata validator using custom annotations (@PublicAPI, @RequiresAuth) and reflection to scan controller methods and generate documentation
+> 2. **MarkMate – Student Marksheet Generator** - CSV to JSON report card generator that reads student marks from CSV, calculates totals, averages, grades and generates JSON report cards
+> 3. **EventTracker – Auto Audit System** - Automatic audit logging system using @AuditTrail annotation and reflection to track method calls and generate JSON audit logs with timestamps
+
+**LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-ioprograming-practice/java-ioprogramming-practice/scenario-based/ioprogramming/src
+
+  ---
+
