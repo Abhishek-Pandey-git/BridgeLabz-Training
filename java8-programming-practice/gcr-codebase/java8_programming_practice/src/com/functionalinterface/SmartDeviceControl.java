@@ -1,13 +1,13 @@
 package com.functionalinterface;
 
-// Smart Device Interface
-interface SmartDevice {
+// Interface for smart devices
+interface Device {
     void turnOn();
     void turnOff();
 }
 
 // Light implementation
-class Light implements SmartDevice {
+class Light implements Device {
     private String location;
     
     public Light(String location) {
@@ -16,20 +16,20 @@ class Light implements SmartDevice {
     
     @Override
     public void turnOn() {
-        System.out.println(location + " Light turned ON");
+        System.out.println(location + " light turned ON");
     }
     
     @Override
     public void turnOff() {
-        System.out.println(location + " Light turned OFF");
+        System.out.println(location + " light turned OFF");
     }
 }
 
 // AC implementation
-class AirConditioner implements SmartDevice {
+class AC implements Device {
     private String room;
     
-    public AirConditioner(String room) {
+    public AC(String room) {
         this.room = room;
     }
     
@@ -45,37 +45,38 @@ class AirConditioner implements SmartDevice {
 }
 
 // TV implementation
-class Television implements SmartDevice {
+class TV implements Device {
     private String brand;
     
-    public Television(String brand) {
+    public TV(String brand) {
         this.brand = brand;
     }
     
     @Override
     public void turnOn() {
-        System.out.println(brand + " TV powered ON");
+        System.out.println(brand + " TV turned ON");
     }
     
     @Override
     public void turnOff() {
-        System.out.println(brand + " TV powered OFF");
+        System.out.println(brand + " TV turned OFF");
     }
 }
 
 public class SmartDeviceControl {
     public static void main(String[] args) {
-        SmartDevice light = new Light("Living Room");
-        SmartDevice ac = new AirConditioner("Bedroom");
-        SmartDevice tv = new Television("Samsung");
+        Device light = new Light("Living Room");
+        Device ac = new AC("Bedroom");
+        Device tv = new TV("Samsung");
         
-        // Control all devices
+        // Turn on all devices
         light.turnOn();
         ac.turnOn();
         tv.turnOn();
         
         System.out.println();
         
+        // Turn off all devices
         light.turnOff();
         ac.turnOff();
         tv.turnOff();
