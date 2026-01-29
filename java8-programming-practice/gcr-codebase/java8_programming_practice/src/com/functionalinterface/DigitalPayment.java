@@ -1,6 +1,6 @@
 package com.functionalinterface;
 
-// Payment Interface
+// Interface for payment methods
 interface PaymentMethod {
     void pay(double amount);
 }
@@ -15,7 +15,7 @@ class UPI implements PaymentMethod {
     
     @Override
     public void pay(double amount) {
-        System.out.println("Paid Rs." + amount + " using UPI: " + upiId);
+        System.out.println("Paid Rs." + amount + " via UPI: " + upiId);
     }
 }
 
@@ -29,33 +29,22 @@ class CreditCard implements PaymentMethod {
     
     @Override
     public void pay(double amount) {
-        System.out.println("Paid Rs." + amount + " using Credit Card: " + maskCard(cardNumber));
-    }
-    
-    private String maskCard(String card) {
-        return "XXXX-XXXX-XXXX-" + card.substring(card.length() - 4);
+        System.out.println("Paid Rs." + amount + " via Credit Card ending with " + 
+                          cardNumber.substring(cardNumber.length() - 4));
     }
 }
 
 // Wallet implementation
 class Wallet implements PaymentMethod {
     private String walletName;
-    private double balance;
     
-    public Wallet(String walletName, double balance) {
+    public Wallet(String walletName) {
         this.walletName = walletName;
-        this.balance = balance;
     }
     
     @Override
     public void pay(double amount) {
-        if (balance >= amount) {
-            balance -= amount;
-            System.out.println("Paid Rs." + amount + " using " + walletName + " Wallet");
-            System.out.println("Remaining balance: Rs." + balance);
-        } else {
-            System.out.println("Insufficient balance in " + walletName + " Wallet");
-        }
+        System.out.println("Paid Rs." + amount + " via " + walletName + " Wallet");
     }
 }
 
@@ -63,16 +52,11 @@ public class DigitalPayment {
     public static void main(String[] args) {
         PaymentMethod upi = new UPI("user@paytm");
         PaymentMethod card = new CreditCard("1234567812345678");
-        PaymentMethod wallet = new Wallet("Paytm", 5000);
+        PaymentMethod wallet = new Wallet("PhonePe");
         
         // Make payments
-        upi.pay(500);
-        card.pay(1500);
-        wallet.pay(2000);
-        
-        System.out.println();
-        
-        // Try another wallet payment
-        wallet.pay(4000);
+        upi.pay(500.0);
+        card.pay(1200.0);
+        wallet.pay(350.0);
     }
 }
