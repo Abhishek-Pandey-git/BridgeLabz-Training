@@ -753,3 +753,18 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
 > 5. **DealTracker** - E-Commerce Discount Validator that parses deal files, uses regex for percentage/date extraction, filters expired deals with LocalDate, prevents duplicates with Set, and sorts by discount
 
 **LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-collections-practice/java-generics-practice/scenario-based/collections_scenario_based/src/com
+
+---
+
+
+### 29-Jan-2026: Lambda Expression and Functional Interfaces
+- Introduction to Lambda Expressions
+- Syntax and structure of Lambda Expressions
+- Functional Interfaces in Java
+- Commonly used Functional Interfaces (Predicate, Function, Consumer, Supplier)
+
+**Functional Interface:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8_programming_practice/src/com/functionalinterface
+
+**Method References:** [method references](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/methodreferences)
+
+**Lambda Expressions** 👉: https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/methodreferences
