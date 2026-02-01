@@ -774,7 +774,7 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
 
   ---
 
-
+## WEEK 6 - JAVA 8 PROGRAMMING PRACTICE
 ### 29-Jan-2026: Lambda Expression and Functional Interfaces
 - Introduction to Lambda Expressions
 - Syntax and structure of Lambda Expressions
@@ -794,5 +794,6 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
 - Creating Streams from Collections and Arrays
 - Intermediate and Terminal Operations
 **LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/streams
+
 
 ---
