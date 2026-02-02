@@ -22,3 +22,11 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 - Working with Collections using Streams
 
 <a href="https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/streams"> ***Stream Programs***</a>
+
+---
+
+### 31-Jan-2026: Scenario based Practice Problems
+- Solve various practice problems using Lambda Expressions and Stream API
+- Focus on real-world scenarios to apply the concepts learned
+- Enhance problem-solving skills using Java 8 features
+**Links to Practice Problems:** [Scenario based Practice Problems](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/scenario)
