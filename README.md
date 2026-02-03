@@ -30,3 +30,14 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 - Focus on real-world scenarios to apply the concepts learned
 - Enhance problem-solving skills using Java 8 features
 **Links to Practice Problems:** [Scenario based Practice Problems](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/scenario)
+
+
+---
+
+### 2-Feb-2026: solved scanrio based on Lambda and Stream API
+- Practice problems focusing on Lambda Expressions and Stream API
+- Review key concepts covered during the week
+- Address any questions or doubts
+
+**Link:** [solved scanrio based on Lambda and Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/scenario_based)
+
