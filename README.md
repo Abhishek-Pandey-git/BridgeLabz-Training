@@ -805,3 +805,13 @@ oop scenario based problems  👉 https://github.com/Abhishek-Pandey-git/BridgeL
 **Links to Practice Problems:** [Scenario based Practice Problems](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/scenario)
 
 ---
+
+## DESIGN PATTERNS
+
+### 03-Feb-2026: Gang of Four (GoF) Design Patterns - Library Management System
+Implemented a comprehensive Library Management System demonstrating four fundamental design patterns: **Singleton** (LibraryCatalog), **Factory** (UserFactory), **Observer** (Notification System), and **Builder** (Book Construction) working together in a real-world scenario.
+
+🔗 **Code Link:**  
+👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/java_design_pattern_practice/src/com/library
+
+---
