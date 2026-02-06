@@ -830,3 +830,11 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 
 
 ---
+
+### 5-Feb-2026: Solved problem based on Collectors
+- Practice problems focusing on Collectors in Stream API
+- Review key concepts and techniques for using Collectors
+- Address any questions or doubts related to Collectors
+- **Link:** [Solved problem based on Collectors](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/collectors)
+
+---
