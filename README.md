@@ -51,3 +51,12 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 **Link:** [Solved Scenario Based on Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based\java8_scenario_based/src/com/employees)
 
 ---
+
+### 5-Feb-2026: Solved problem based on Collectors
+- Practice problems focusing on Collectors in Stream API
+- Review key concepts and techniques for using Collectors
+- Address any questions or doubts related to Collectors
+- **Link:** [Solved problem based on Collectors](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/collectors)
+
+---
+
