@@ -846,3 +846,6 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 - Practice problems on Stream API logical problems using Stream API
 - Review and discuss solutions
 - **LINK:** [Solved logical problems with Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8_scenario_based/src/com/logicalproblems2)   
+
+---
+
