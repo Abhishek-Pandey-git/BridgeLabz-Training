@@ -64,3 +64,11 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 - Practice solving logical problems using Stream API
 - Review and discuss solutions
 - **LINK:** [Solved logical problems with Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8_scenario_based/src/com/logicalproblems2)
+
+
+---
+
+### 7-Feb-2026: Solved logical problems with stream API
+- Continue practicing solving logical problems using Stream API
+- Review and discuss solutions
+- **LINK:** [Solved logical problems with Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8_scenario_based/src/com/logicalproblems)
