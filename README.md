@@ -78,3 +78,11 @@ java-design-pattern-practice/
 
 🔗 **Repository Link:**  
 👉 https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/java_design_pattern_practice/src/com/library
+
+---
+### 6-Feb-2026: Solved problems with multi-threading and synchronization in Java
+- Implemented a thread-safe Singleton pattern for a shared resource manager
+- Used synchronized
+  - blocks to ensure thread safety during instance creation
+- Handled potential race conditions in multi-threaded environment
+- **LINK:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/java_design_pattern_practice/src/com/multithreading
