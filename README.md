@@ -843,7 +843,6 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 - Practice problems on multi threading
 - **Link:** [Solved problem based on Multithreading and Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/multithreading)
 
-- Practice problems on Stream API
-- **Link:** [Solved problem based on Stream API](Practice solving logical problems using Stream API
+- Practice problems on Stream API logical problems using Stream API
 - Review and discuss solutions
 - **LINK:** [Solved logical problems with Stream API](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8_scenario_based/src/com/logicalproblems2)   
