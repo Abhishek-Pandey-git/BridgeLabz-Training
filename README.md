@@ -8,3 +8,12 @@ In this week, we will practice using MySQL and JDBC to interact with a database.
 - Inserted sample data into the tables.
 <br>
 **LINK** : [MySQL Practice](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario_based/mysql_jdbc_scenario_practice/src/mysql_practice/patient_management)
+
+## 8 -Feb-2026: practiced mysql query programs for hospital management
+- Created a database named `hospital_management`.
+- Created tables named `doctors`, `patients`, `appointments` with appropriate columns.
+
+<br> 
+**LINK** : [MySQL Practice](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario_based/mysql_jdbc_scenario_practice/src/mysql_practice)
+
+----
