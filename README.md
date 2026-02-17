@@ -35,6 +35,30 @@ In this week, we will practice using MySQL and JDBC to interact with a database.
 <br>
 **LINK - Library Management** : [Library System](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/mysql_jdbc_practice/src/jdbc_practice/library_management)
 
+## 16-Feb-2026: JDBC Programming - CRUD Operations and Scenario-Based Programs
+- Implemented JDBC CRUD Operations
+  - CreateOperation - Create database tables
+  - InsertOperation - Insert records into database
+  - SelectOperation - Retrieve data from database
+  - UpdateQuery - Update existing records
+  - DeleteOperation - Delete records from database
+  - ProcedureCall - Call stored procedures
+
+- Built Hospital Management Scenario Programs
+  - RegisterPatient - Register new patient in system
+  - UpdatePatientInfo - Update patient information
+  - ViewPatientVisitHistory - Display patient visit history
+  - AddDoctorProfile - Add new doctor profiles
+  - UpdateDoctorsSpecialty - Update doctor specialty
+  - ViewDoctorsBySpeciality - View doctors by specialty filter
+  - DeactivateDoctorProfile - Deactivate doctor profiles
+
+<br>
+**LINK - CRUD Operations** : [CRUD Programs](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario_based/mysql_jdbc_scenario_practice/src/jdbc_practice/crud_operations)
+
+<br>
+**LINK - Scenario Based** : [Hospital Management](https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario_based/mysql_jdbc_scenario_practice/src/jdbc_practice/scenario_based)
+
 ----
 
 
